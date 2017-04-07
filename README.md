@@ -7,7 +7,7 @@ We have at access to 732 of the audio files of SALAMI.
 We split our 732 audio tracks into 400 tracks for training, 100 for validation and 232 for testing. 
 The splitting has been to ensure that the same artist does not appear both in the training and testing set.
 
-We provide three list (`idSALAMITrain`, `idSALAMIVAL`, `idSALAMITest`}) of id of SALAMI (called `SONG_ID`), defined in the `metada.csv` files of SALAMI database.
+We provide three list (`idSALAMITrain`, `idSALAMIVAL`, `idSALAMITest`) of id of SALAMI (called `SONG_ID`), defined in the `metada.csv` files of SALAMI database.
 
 
 
